@@ -6,7 +6,9 @@ I not only bring knowledge from all my years of studies, I also bring experience
 and transportation engineering. Looking forward to applying my knowledge, and all the tools that I have accumulated through many years of experience, into making valuable
 products and providing valuable insights for companies 
 
-Feel free to reach out to me: joelrodrigue2016@fau.edu  or joel134748@gmail.com
+Feel free to reach out to me:
+
+joelrodrigue2016@fau.edu  or joel134748@gmail.com
 <!---
 joelrodrigue2016/joelrodrigue2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
