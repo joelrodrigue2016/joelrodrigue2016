@@ -8,7 +8,7 @@ products and providing valuable insights for companies
 
 Feel free to reach out to me:
 
-joelrodrigue2016@fau.edu  or joel134748@gmail.com
+joel134748@gmail.com
 <!---
 joelrodrigue2016/joelrodrigue2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
